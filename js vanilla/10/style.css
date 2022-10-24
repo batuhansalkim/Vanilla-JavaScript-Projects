@@ -1,0 +1,31 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*::after, *::before{
+  box-sizing: border-box;
+}
+.container{
+    display: flex;
+    gap: 20px 30px;
+    row-gap: 20px;
+    column-gap: 30px;
+    flex-wrap: wrap;
+    border: 1px solid;
+    padding: 10px;
+}
+.item{
+    width: 200px;
+    background: #2da192;
+  color: #fff;
+  line-height: 100px;
+  text-align: center;
+  font-size: 40px;
+  flex-basis: 300px;
+} */
+
+
+
+
